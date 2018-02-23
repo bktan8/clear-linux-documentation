@@ -284,6 +284,7 @@ Power on the VM
 ***************
 
 After configuring the settings above, power on your |CL| virtual machine.
+bktan1
 
 For other guides on using the VMWare player, see:
 
